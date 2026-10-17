@@ -187,3 +187,10 @@ model = AutoModelForImageTextToText.from_pretrained(
 ## 许可证
 
 本项目遵循 Apache 2.0 许可证。
+
+---
+
+## 咨询
+
+文档自动化落地咨询可参考 [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=paddleocr-vl-setup)。作者 **H**（X：[@odpanda](https://x.com/odpanda)）。
+
