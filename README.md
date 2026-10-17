@@ -140,3 +140,10 @@ The model and PaddleOCR carry their own licenses. This repo is the setup and dem
 ## License
 
 MIT
+
+---
+
+## Consulting
+
+Document-automation rollout questions? Soft intro via [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=paddleocr-vl-setup). Author: **H** ([@odpanda](https://x.com/odpanda)).
+
