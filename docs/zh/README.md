@@ -1,6 +1,6 @@
 # PaddleOCR-VL-1.5 本地部署指南
 
-> **English readers:** see [QUICK_START_EN.md](QUICK_START_EN.md) for the full English guide.
+> **English readers:** see [QUICK_START.md](../QUICK_START.md) for the full English guide.
 
 
 PaddleOCR-VL-1.5 是一个先进的文档解析模型，在 OmniDocBench v1.5 上达到了 94.5% 的准确率。
@@ -186,11 +186,11 @@ model = AutoModelForImageTextToText.from_pretrained(
 
 ## 许可证
 
-本项目遵循 Apache 2.0 许可证。
+本项目遵循 MIT 许可证。
 
 ---
 
 ## 咨询
 
-文档自动化落地咨询可参考 [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=paddleocr-vl-setup)。作者 **H**（X：[@odpanda](https://x.com/odpanda)）。
+人效提升、组织诊断、薪酬绩效咨询可参考 [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=paddleocr-vl-setup)。作者 **H**（X：[@odpanda](https://x.com/odpanda)）。
 
